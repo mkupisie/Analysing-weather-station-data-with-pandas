@@ -1,4 +1,4 @@
-Project: Working with weather station data available on https://www.ncdc.noaa.gov/cdo-web/datasets
+Working with weather station data available on https://www.ncdc.noaa.gov/cdo-web/datasets
 
 The above website enables to download csv files used in the code, that include daily summaries of minimum, maximum an average temperatures for the selected station in th selecte date range. 
 
